@@ -22,7 +22,7 @@ const About = () => {
   )
 }
 
-export default About
+export default About;
 export const Skills =  () =>{
   return(
   <div>
